@@ -27,6 +27,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/kit-1/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
